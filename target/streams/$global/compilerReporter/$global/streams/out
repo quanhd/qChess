@@ -1,0 +1,25 @@
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/_emailPartial.scala.html:6: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m@inputText([0m
+[0m[[33mwarn[0m] [0m          ^[0m
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/_passwordPartial.scala.html:6: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m             @inputPassword([0m
+[0m[[33mwarn[0m] [0m                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/_passwordPartial.scala.html:11: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m             @inputPassword([0m
+[0m[[33mwarn[0m] [0m                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/account/ask_link.scala.html:22: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m	   @inputRadioGroup([0m
+[0m[[33mwarn[0m] [0m	                   ^[0m
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/account/ask_merge.scala.html:22: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m	   @inputRadioGroup([0m
+[0m[[33mwarn[0m] [0m	                   ^[0m
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/account/signup/password_reset.scala.html:23: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m   		) { (id, name, value, args) =>[0m
+[0m[[33mwarn[0m] [0m   		  ^[0m
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/login.scala.html:29: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m        @inputPassword([0m
+[0m[[33mwarn[0m] [0m                      ^[0m
+[0m[[33mwarn[0m] [0m/Users/quanhdo/Projects/play-authenticate/app/views/signup.scala.html:26: value twitterBootstrapField in package twitterBootstrap is deprecated: The twitter bootstrap field constructor will be removed from Play in 2.4 since the way Bootstrap must be used changes too frequently and too drastically between versions for this to make sense to be in the core of Play[0m
+[0m[[33mwarn[0m] [0m             @inputText([0m
+[0m[[33mwarn[0m] [0m                       ^[0m
+[0m[[33mwarn[0m] [0m8 warnings found[0m
